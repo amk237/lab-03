@@ -9,4 +9,4 @@ N/A
 | Student Name | CCID      |
 | ------------ | --------- |
 | `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Amaan Khan` | `mkhan16`  |
